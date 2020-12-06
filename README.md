@@ -30,14 +30,14 @@ Maka ketika kita run hasilnya akan seperti berikut<br>
 Berikut adalah tugas praktikum 6:<br>
 ![tugas_praktikum.png](Pic/tugas_praktikum.png)<br>
 
-Untuk source code yang saya gunakan silahkan kalian klik tombol di samping:  [Click Here](prakikum_6.py)
+Untuk source code yang saya gunakan silahkan kalian klik tombol di samping:  [Click Here](praktikum_6.py)
 
 Baiklah saya akan menjelaskan fungsi - fungsi dari syntax tersebut:<br>
 
 1. Disini saya menggunakan dictionary<br>
   ![dictionary.png](Pic/dictionary.png)<br>
 Keterangan:<br>
-    - Kalian bisa menggunakan list atau dictionary sesuai keinginan kalian sendiri tapi tentu saja list dan dictionary berbeda ya tapi tujuannya sama<br>
+    - Kalian bisa menggunakan list atau dictionary sesuai keinginan kalian sendiri tapi tentu saja list dan dictionary berbeda ya tapi kegunaanya sama<br>
 
 2. Tambah data nilai mahasiswa<br>
   ![syntax_tambah.png](Pic/syntax_tambah.png)<br>
