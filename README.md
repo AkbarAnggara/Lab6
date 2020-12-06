@@ -30,6 +30,9 @@ Maka ketika kita run hasilnya akan seperti berikut<br>
 Berikut adalah tugas praktikum 6:<br>
 ![tugas_praktikum.png](Pic/tugas_praktikum.png)<br>
 
+Berikut adalah flowchartnya:<br>
+![flowchart.png](Pic/flowchart.png)<br>
+
 Untuk source code yang saya gunakan silahkan kalian klik tombol di samping:  [Click Here](praktikum_6.py)
 
 Baiklah saya akan menjelaskan fungsi - fungsi dari syntax tersebut:<br>
